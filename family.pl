@@ -47,7 +47,7 @@ mother_in_law(X, Y) :- mother(X, Z), married(Y, Z).
 
   /**
  * 4. Query to check if abraham is jacob's grandfather
- *    grandfather(abraham, ishmael).
+ *    grandfather(abraham, jacob).
  **/
 
 
